@@ -13,4 +13,5 @@ Some List:
 2. bar
 3. foobaaaaaar
 
-![foo](einBild.png "asdf")
+![foo](einBild.png "asdf")  
+![foo](foo.jpg "asdf")
